@@ -1,2 +1,4 @@
 # dispute_editor_stylesheet
-Repo for CSS Stylesheet for EditorJS Letter Editor
+
+## Purpose
+This repo holds only one document, the CSS Stylesheet for EditorJS Letter Editor for internal company use.
